@@ -1,0 +1,24 @@
+:root{
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+    --border-color: #e0e0e0;
+    --line-color: #3498db;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body{
+    margin: 0;
+    overflow: hidden;
+}
+
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Mulish', sans-serif;
+    box-sizing: border-box;
+}

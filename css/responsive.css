@@ -1,0 +1,22 @@
+/* mobile & tablet */
+@media (max-width: 1023px){
+    .container {
+        padding: 0 30px;
+    }
+}
+
+/* tablet */
+@media(min-width:740px) and (max-width: 1023px){
+    .container {
+        padding: 0 30px;
+    }
+}
+
+@media(max-width:739px){
+    .container {
+        padding: 0 10px;
+    }
+    /* .panel:nth-of-type(5){
+        display: none;
+    } */
+}
